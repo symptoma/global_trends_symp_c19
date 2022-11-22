@@ -16,3 +16,5 @@ We find an average correlation of 0.342 between the number of Symptoma users ass
 
 ### Conclusion
 We show that online symptom checkers can capture the national-level trends in coronavirus infections. As such, they provide a valuable and unique information source in policymaking against pandemics, unrestricted by conventional resources.
+
+Full manuscript: [TBA]
